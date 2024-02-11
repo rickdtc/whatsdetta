@@ -26,7 +26,7 @@ Vendetta's codebase is fully made out of python and gangsta now!
 2. It's currently in pause in development because all the devs have gotten too gangsta to work on it
 
 # Very important Update
-Apparentlly the fork of this repo called `vendetta` on mobile got archive, RIP
+Apparently the fork of this repo called `vendetta` on mobile got archived, RIP
 
 ## Note
 This is a completely satire repository, if you're the developer of Vendetta (Maisy and the others) and wish to see this stop, feel free to contact me via discord, I am in your server and is pretty active
