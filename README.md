@@ -26,8 +26,8 @@ Whatsdetta's codebase is fully made out of python and gangsta now!
 * pypiwin32
 
 ## Contributing
-1. gangsta needs you brothers and sisters, so make sure to spread this version and make it popular!
-2. It's currently in pause in development because all the devs have gotten too gangsta to work on it
+1. whatsdetta needs you brothers and sisters, so make sure to spread this version and make it popular!
+2. It's currently in pause in development because all the devs have gotten too green to work on it
 
 # Very important Update
 Apparently the fork of this repo called `vendetta` on mobile got archived, RIP
