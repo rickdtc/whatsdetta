@@ -1,9 +1,11 @@
-# Vendetta
-Gangster edition!
-![1qkd0C3I](https://github.com/Not-Baguette/Vendetta-gangster-win11/assets/94969176/41277ee5-5d0c-4251-8812-8007b1c70bb2)
+# Whatsdetta
+Cool whatsapp mod.
+![1000109394](https://github.com/rickdtc/whatsdetta/assets/74096544/088075ef-6cfb-40b2-b129-8f7304ec4528)
+
+
 
 ## Installing
-Vendetta's codebase is fully made out of python and gangsta now!
+Whatsdetta's codebase is fully made out of python and gangsta now!
 
 ### Win 10/11 Precompiled
 * Go to latest `release` and then download the latest `release.zip`
