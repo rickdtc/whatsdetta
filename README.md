@@ -7,20 +7,23 @@ Cool whatsapp mod.
 
 
 ## Installing
-Whatsdetta's codebase is fully made out of python and gangsta now!
+Whatsdetta's codebase is... uhh 👽
 
-### Win 10/11 Precompiled
-* Go to latest `release` and then download the latest `release.zip`
-* Run the program with all the dependency files with it
+### How to install?
 
-### Win 10/11 Source code
+Help us in alpha testing this
+
+* Go to the `apk-releases` channel in our [discord server](https://discord.gg/BT99aVqSV4)
+* Download and install the apk when we make our first apk available
+
+### The experience 
+
+We have packaged the experience as a python code, this is how you can check it out from this source repo!
+
 * Install it as zip/git clone it
 * install dependencies
 * Open `main.py`
 * Run as normal
-
-### Mobile
-* Check out [Vendetta](https://github.com/vendetta-mod/Vendetta)! A fanmade fork of this repository
 
 ## Dependencies
 * pypiwin32
@@ -30,7 +33,7 @@ Whatsdetta's codebase is fully made out of python and gangsta now!
 2. It's currently in pause in development because all the devs have gotten too green to work on it
 
 # Very important Update
-Apparently the fork of this repo called `vendetta` on mobile got archived, RIP
+`vendetta` dead as hell 💀
 
 ## Note
 This is a completely satire repository, if you're the developer of Vendetta (Maisy and the others) and wish to see this stop, feel free to contact me via discord, I am in your server and is pretty active
