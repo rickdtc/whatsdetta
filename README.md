@@ -13,7 +13,6 @@ Whatsdetta's codebase is... uhh 👽
 
 Help us in alpha testing this
 
-* Go to the `apk-releases` channel in our [discord server](https://discord.gg/BT99aVqSV4)
 * Download and install the apk when we make our first apk available
 
 ### The experience 
